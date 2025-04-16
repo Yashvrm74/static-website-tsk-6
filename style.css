@@ -9,11 +9,11 @@ body {
 }
 
 h1 {
-  color: #ffffff;
+  color: #ffffff; /* Red */
 }
 
 p {
-  color: #f0f0f0;
+  color: #f0f0f0; /* blue */
 }
 
 nav {
